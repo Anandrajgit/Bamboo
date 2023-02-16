@@ -1,0 +1,35 @@
+ISA^00^          ^00^          ^ZZ^085859546      ^ZZ^085859550      ^090130^1624^U^00200^000000547^0^T^:~
+GS^PO^085854177^085854261^20151020^1615^000000547^T^004010~
+ST^850^000000547~
+BEG^00^SA^ArchuSTGTEst001^^20151027~
+REF^DP^Fiodar~
+PER^BD^CABOT^EM^maheshsmi.077@gmail.com^FX^7045619644
+DTM^002^20151027~   
+N9^L1^PO COMMENTS~
+MSG^Header Comment~
+N1^ST^Mahesh IDN^91^Exchange002~
+N2^Mahesh IDN-ST^ShipToName N202~
+N3^Indkøbskontoret, Region Nordjylland^ShipToStreet N302~
+N4^Denverâ€^CO^80421^US~
+N1^BY^Mahesh IDN^91^103011157~
+N2^Mahesh IDN-BY^BuyerName N202~
+N3^1 Baycare Ave^BuyerStreet N302~
+N4^Denverâ€^CO^80421^US~
+N1^SE^RajSupplier-Sales^92^103011159~
+N2^rajSupplier-SE^SellerName N202~
+N3^1000 W. Supplier Dr^SellerStreet N302~
+N4^Denverâ€^CO^80241^US~
+PO1^1^1^EA^9.49^^VC^ABC123~
+PID^F^^^^FemoStop™~
+PO1^2^5^EA^10.00^^VC^VPNABCD~
+PID^F^^^^ITEM DESCRIPTION ABCD~
+PO1^3^10^CA^100.00^^VC^VPN0003~
+PID^F^^^^ITEM DESCRIPTION 0003~
+REF^EA^1234567890123456789012345678901~
+REF^EJ^1234567890123456789012345678901~
+PER^1F^A maximum character test of PER02 is sixty chars, A max char test of PER02~
+PER^PZ^A maximum character test of PER02 is sixty chars, A max char test of PER02~
+CTT^1~
+SE^80^000000547~
+GE^1^000000547~
+IEA^1^000000547~
